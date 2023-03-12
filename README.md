@@ -1,1 +1,1 @@
-https://masya2021.github.io/cssBayan/cssBayan/index.html
+https://masya2021.github.io/cssBayan/index.html
